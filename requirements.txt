@@ -1,0 +1,32 @@
+# RAG Customer Support Assistant — Dependencies
+
+# Core LangChain & LangGraph
+langchain>=0.2.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+
+# LLM Providers
+langchain-groq>=0.1.0
+langchain-google-genai>=1.0.0
+
+# Vector DB
+chromadb>=0.5.0
+
+# Embeddings
+sentence-transformers>=2.7.0
+
+# PDF Parsing
+pymupdf>=1.24.0
+
+# Env & Config
+python-dotenv>=1.0.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Utilities
+tiktoken>=0.7.0
+uuid>=1.30
+
+# Type hints
+typing-extensions>=4.11.0
