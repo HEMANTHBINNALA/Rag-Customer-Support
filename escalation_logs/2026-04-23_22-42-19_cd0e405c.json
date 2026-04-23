@@ -1,0 +1,35 @@
+{
+  "event_id": "cd0e405c",
+  "timestamp": "2026-04-23T22:42:19.432478",
+  "query": "dear sir how many kilo metres",
+  "escalation_reason": "LLM response indicates uncertainty (contains: 'i'm not sure'). Routing to human agent.",
+  "retrieved_chunks_count": 4,
+  "retrieved_chunks": [
+    {
+      "text": "Category: Appliances\nQ: dear sir how many kilo metres\nA: The bushings that you see are made to fit many different size shafts, but I am not sure how many millimeters. If I remember they will fit four different sizes.",
+      "source_doc": "single_qna.csv",
+      "page_number": 80,
+      "score": 0.7024
+    },
+    {
+      "text": "Category: Appliances\nQ: dear sir how many kilo metres\nA: The bushings that you see are made to fit many different size shafts, but I am not sure how many millimeters. If I remember they will fit four different sizes.",
+      "source_doc": "single_qna.csv",
+      "page_number": 949,
+      "score": 0.7024
+    },
+    {
+      "text": "Category: Appliances\nQ: dear sir how many kilo metres\nA: The bushings that you see are made to fit many different size shafts, but I am not sure how many millimeters. If I remember they will fit four different sizes.",
+      "source_doc": "single_qna.csv",
+      "page_number": 959,
+      "score": 0.7024
+    },
+    {
+      "text": "Category: Appliances\nQ: dear sir how many kilo metres\nA: The bushings that you see are made to fit many different size shafts, but I am not sure how many millimeters. If I remember they will fit four different sizes.",
+      "source_doc": "single_qna.csv",
+      "page_number": 1348,
+      "score": 0.7024
+    }
+  ],
+  "llm_response_preview": "I'm not sure based on the available documentation. Please contact our support team.",
+  "status": "pending"
+}

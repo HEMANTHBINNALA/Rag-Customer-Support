@@ -1,0 +1,35 @@
+{
+  "event_id": "58617bf0",
+  "timestamp": "2026-04-23T21:36:02.904441",
+  "query": "what are the questions",
+  "escalation_reason": "LLM response indicates uncertainty (contains: 'i'm not sure'). Routing to human agent.",
+  "retrieved_chunks_count": 4,
+  "retrieved_chunks": [
+    {
+      "text": ". Hope this helps - let me know if you have any other questions.",
+      "source_doc": "single_qna.csv",
+      "page_number": 2139,
+      "score": 0.4648
+    },
+    {
+      "text": "Category: Appliances\nQ: frigidaire gallery 2435\nA: what is the question?",
+      "source_doc": "single_qna.csv",
+      "page_number": 3831,
+      "score": 0.458
+    },
+    {
+      "text": "2. Basic Concept",
+      "source_doc": "tmptxpu90ov.pdf",
+      "page_number": 119,
+      "score": 0.3968
+    },
+    {
+      "text": "Category: Appliances\nQ: 205c139\nA: What is your question?",
+      "source_doc": "single_qna.csv",
+      "page_number": 4465,
+      "score": 0.388
+    }
+  ],
+  "llm_response_preview": "Based on the provided context, it appears that there are two questions related to the Category: Appliances. \n\nOne question is related to a \"Frigidaire Gallery 2435\" (Page: 3831), but it is unclear what the actual question is since the answer is \"what is the question?\" \n\nThe other question is related to a \"205c139\" (Page: 4465), and the answer is also \"What is your question?\" \n\nI'm not sure based on the available documentation. Please contact our support team.",
+  "status": "pending"
+}

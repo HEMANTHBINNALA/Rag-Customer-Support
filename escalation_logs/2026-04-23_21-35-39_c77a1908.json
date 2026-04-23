@@ -1,0 +1,10 @@
+{
+  "event_id": "c77a1908",
+  "timestamp": "2026-04-23T21:35:39.876980",
+  "query": "what does the csv file about",
+  "escalation_reason": "No relevant documentation found for this query.",
+  "retrieved_chunks_count": 0,
+  "retrieved_chunks": [],
+  "llm_response_preview": "",
+  "status": "pending"
+}
